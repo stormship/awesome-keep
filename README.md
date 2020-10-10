@@ -18,7 +18,7 @@ A curated list of awesome Keep Network repos, tools, guides, blogs, and other co
 5. [Philosophy](#philosophy)
 6. [Videos and Podcasts](#videos-and-podcasts)
 7. [Utilities](#utilities)
-8. [Misc](#misc)
+8. [Community](#community)
 9. [Official](#official)
 
 
@@ -55,27 +55,34 @@ TODO
 
 ## Videos and Podcasts
 
-TODO
+- [zkPodcast: tBTC with Matt Luongo from Thesis](https://www.youtube.com/watch?v=bHz58PFFjrU)
+- [Pomp Podcast #253: Matt Luongo on Bridging the Gap between Bitcoin & the Real-World](https://www.youtube.com/watch?v=lKqghJOBtIQ)
+- [Unchained Podcast: tBTC: What Happens When the Most Liquid Crypto Asset Hits DeFi?](https://unchainedpodcast.com/tbtc-what-happens-when-the-most-liquid-crypto-asset-hits-defi/)
+- [Wyre Podcast: Announcing tBTC with James Prestwich and Matt Luongo of Cross-Chain Group](https://www.alphavoice.io/video/wyre-talks/ep-47-announcing-tbtc-with-james-prestwich-and-matt-luongo-of-cross-chain-group)
+- [Improving the Federated 2-way Peg by Matt Luongo (Devcon5)](https://www.youtube.com/watch?v=NHTuLnrDaUA)
 
 
 ## Utilities
 
-TODO
+- [Ropsten Keep Faucet](http://us-central1-keep-test-f3e0.cloudfunctions.net/keep-faucet-ropsten) - Ropsten testnet faucet that sends 300k Keep grant to the specified account
+- [Ropsten Eth Faucet Bot](https://t.me/Faucet_Keep_Ropsen_Bot) - Telegram bot that faucets 25 ETH to the specified account, as long as the account also has a 300k Keep grant
 
 
-## Misc
+## Community
 
-- [r/KeepNetwork](https://www.reddit.com/r/KeepNetwork/) - Ethereum subreddit.
+- [r/KeepNetwork](https://www.reddit.com/r/KeepNetwork/) - Keep subreddit
+- [Keep Discord](https://discord.gg/jqxBU4m)
+- [Keep Telegram](https://t.me/KeepNetworkOfficial)
 
 
 ## Official
 
 - [Keep Network Website](https://keep.network/)
-- [Ethereum GitHub](https://github.com/keep-network)
+- [Keep Network GitHub](https://github.com/keep-network)
 - [tBTC Website](https://tbtc.network/)
 
 
 # Contribute
 
 Contributions and pull requests welcome!
-Inspired by [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum)
+Inspired by [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum).
