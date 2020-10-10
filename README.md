@@ -12,9 +12,9 @@ A curated list of awesome Keep Network repos, tools, guides, blogs, and other co
 ## Contents
 
 1. [Documentation](#documentation)
-2. [Programming](#programming)
+2. [Code](#code)
 3. [Tutorials](#tutorials)
-4. [Code](#code)
+4. [Tools](#tools)
 5. [Philosophy](#philosophy)
 6. [Videos and Podcasts](#videos-and-podcasts)
 7. [Utilities](#utilities)
@@ -29,7 +29,7 @@ Official Keep Documentation.
 - [Keep Development Process](https://github.com/keep-network/keep-core/blob/master/docs/development-process.adoc)
 
 
-## Programming
+## Code
 
 TODO
 
@@ -38,12 +38,17 @@ TODO
 
 Step by step guides on how to pariticpate in Keep.
 
-TODO
+- [Walkthrough to create Keep-client node for either mainnet or testnet](https://medium.com/@ben_longstaff/a-beginners-quick-start-guide-to-staking-on-the-keep-network-testnet-using-digitalocean-5a74ca60adc3) - A beginners quick start guide to staking on the Keep Network testnet using DigitalOcean.
+- [Walkthrough to create Keep-ECDSA node for either mainnet or testnet](https://gist.github.com/afmsavage/8fc19937a6b263f05c3e215d8860629c) - Keep Network ECDSA Node Setup Guide
 
 
-## Code
 
-TODO
+## Tools
+
+- [All the Keeps](https://allthekeeps.com/deposits) - Monitoring tool for deposits, operators and governance
+- [Keepscan](https://keepscan.com/) - Explorer for monitoring deposits, redemptions and TBTC supply
+- [Keep Stats](https://keepstats.org/) - Dashboard to track TBTC supply, TVL, and KEEP price
+
 
 
 ## Philosophy
@@ -66,6 +71,7 @@ TODO
 
 - [Ropsten Keep Faucet](http://us-central1-keep-test-f3e0.cloudfunctions.net/keep-faucet-ropsten) - Ropsten testnet faucet that sends 300k Keep grant to the specified account
 - [Ropsten Eth Faucet Bot](https://t.me/Faucet_Keep_Ropsen_Bot) - Telegram bot that faucets 25 ETH to the specified account, as long as the account also has a 300k Keep grant
+- [Keep Dashboard Mobile App](https://keepdashboard.app/) - An Android and iOS version of the Keep Dashboard -- useful for node operators.
 
 
 ## Community
