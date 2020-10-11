@@ -26,8 +26,12 @@ A curated list of awesome Keep Network repos, tools, guides, blogs, and other co
 
 Official Keep Documentation.
 
+For Developers:
 - [Keep Development Process](https://github.com/keep-network/keep-core/blob/master/docs/development-process.adoc)
-- [Run Random Beacon](https://docs.keep.network/run-random-beacon.html) - Docs for running a Random Beacon Node on the Keep Network
+
+For Node Operators:
+- [Run Random Beacon](https://docs.keep.network/run-random-beacon.html) - Docs for running a Keep Random Beacon node
+- [Run ECDSA Keep](https://github.com/keep-network/keep-ecdsa/blob/master/docs/run-keep-ecdsa.adoc) - Docs for running an Keep ECDSA node
 - [Staking Documentation](https://keep-network.gitbook.io/staking-documentation/) - All the information you need to stake on the Keep Network and start earning rewards
 
 ## Code
