@@ -19,6 +19,7 @@ A curated list of awesome Keep Network repos, tools, guides, blogs, and other co
 6. [Videos and Podcasts](#videos-and-podcasts)
 7. [Community](#community)
 8. [Official](#official)
+9. [Play for Keeps](#play-for-keeps)
 
 
 ## Documentation
@@ -36,7 +37,7 @@ TODO
 
 ## Tutorials
 
-Step by step guides on how to pariticpate in Keep.
+Step by step guides on how to pariticipate in Keep.
 
 - [Walkthrough to create Keep-client node for either mainnet or testnet](https://medium.com/@ben_longstaff/a-beginners-quick-start-guide-to-staking-on-the-keep-network-testnet-using-digitalocean-5a74ca60adc3) - A beginners quick start guide to staking on the Keep Network testnet using DigitalOcean.
 - [Walkthrough to create Keep-ECDSA node for either mainnet or testnet](https://gist.github.com/afmsavage/8fc19937a6b263f05c3e215d8860629c) - Keep Network ECDSA Node Setup Guide
@@ -83,6 +84,14 @@ TODO
 - [Keep Blog](https://blog.keep.network/)
 - [tBTC Website](https://tbtc.network/)
 
+
+## Play for Keeps
+
+Play for Keeps is Keep Network's ongoing incentivized testnet that rewards community members that run nodes on the Ropsten testnet, and contribute to the ecosystem. This is not limited to development, but can include design and community building. The rewards range from 100-100,000 KEEP, which act as a work token that enable holders to stake and run nodes on Mainnet.
+
+- [How to Play for Keeps](https://blog.keep.network/how-to-play-for-keeps-297f246455d4) - official blog post that details the rules of the game
+- [Play for Keeps Visualizer](http://playforkeeps.info/) - cool visualizer to see who won in past months and what their submissions were
+- [Playing for Keeps: Hall of Fame](https://pfkawards.com/) - previous apps that won are featured in this hall of fame 
 
 # Contribute
 
