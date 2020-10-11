@@ -17,9 +17,8 @@ A curated list of awesome Keep Network repos, tools, guides, blogs, and other co
 4. [Tools](#tools)
 5. [Philosophy](#philosophy)
 6. [Videos and Podcasts](#videos-and-podcasts)
-7. [Utilities](#utilities)
-8. [Community](#community)
-9. [Official](#official)
+7. [Community](#community)
+8. [Official](#official)
 
 
 ## Documentation
@@ -45,10 +44,13 @@ Step by step guides on how to pariticpate in Keep.
 
 ## Tools
 
+- [Keep Tools](https://keeptools.org/) - A directory for all the tools and resources on the Keep Network
 - [All the Keeps](https://allthekeeps.com/deposits) - Monitoring tool for deposits, operators and governance
 - [Keepscan](https://keepscan.com/) - Explorer for monitoring deposits, redemptions and TBTC supply
 - [Keep Stats](https://keepstats.org/) - Dashboard to track TBTC supply, TVL, and KEEP price
-
+- [Ropsten Keep Faucet](http://us-central1-keep-test-f3e0.cloudfunctions.net/keep-faucet-ropsten) - Ropsten testnet faucet that sends 300k Keep grant to the specified account
+- [Ropsten Eth Faucet Bot](https://t.me/Faucet_Keep_Ropsen_Bot) - Telegram bot that faucets 25 ETH to the specified account, as long as the account also has a 300k Keep grant
+- [Keep Dashboard Mobile App](https://keepdashboard.app/) - An Android and iOS version of the Keep Dashboard -- useful for node operators.
 
 
 ## Philosophy
@@ -65,13 +67,6 @@ TODO
 - [Unchained Podcast: tBTC: What Happens When the Most Liquid Crypto Asset Hits DeFi?](https://unchainedpodcast.com/tbtc-what-happens-when-the-most-liquid-crypto-asset-hits-defi/)
 - [Wyre Podcast: Announcing tBTC with James Prestwich and Matt Luongo of Cross-Chain Group](https://www.alphavoice.io/video/wyre-talks/ep-47-announcing-tbtc-with-james-prestwich-and-matt-luongo-of-cross-chain-group)
 - [Improving the Federated 2-way Peg by Matt Luongo (Devcon5)](https://www.youtube.com/watch?v=NHTuLnrDaUA)
-
-
-## Utilities
-
-- [Ropsten Keep Faucet](http://us-central1-keep-test-f3e0.cloudfunctions.net/keep-faucet-ropsten) - Ropsten testnet faucet that sends 300k Keep grant to the specified account
-- [Ropsten Eth Faucet Bot](https://t.me/Faucet_Keep_Ropsen_Bot) - Telegram bot that faucets 25 ETH to the specified account, as long as the account also has a 300k Keep grant
-- [Keep Dashboard Mobile App](https://keepdashboard.app/) - An Android and iOS version of the Keep Dashboard -- useful for node operators.
 
 
 ## Community
