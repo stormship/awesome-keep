@@ -27,7 +27,8 @@ A curated list of awesome Keep Network repos, tools, guides, blogs, and other co
 Official Keep Documentation.
 
 - [Keep Development Process](https://github.com/keep-network/keep-core/blob/master/docs/development-process.adoc)
-
+- [Run Random Beacon](https://docs.keep.network/run-random-beacon.html) - Docs for running a Random Beacon Node on the Keep Network
+- [Staking Documentation](https://keep-network.gitbook.io/staking-documentation/) - All the information you need to stake on the Keep Network and start earning rewards
 
 ## Code
 
@@ -40,7 +41,6 @@ Step by step guides on how to pariticpate in Keep.
 
 - [Walkthrough to create Keep-client node for either mainnet or testnet](https://medium.com/@ben_longstaff/a-beginners-quick-start-guide-to-staking-on-the-keep-network-testnet-using-digitalocean-5a74ca60adc3) - A beginners quick start guide to staking on the Keep Network testnet using DigitalOcean.
 - [Walkthrough to create Keep-ECDSA node for either mainnet or testnet](https://gist.github.com/afmsavage/8fc19937a6b263f05c3e215d8860629c) - Keep Network ECDSA Node Setup Guide
-
 
 
 ## Tools
@@ -85,6 +85,7 @@ TODO
 
 - [Keep Network Website](https://keep.network/)
 - [Keep Network GitHub](https://github.com/keep-network)
+- [Keep Blog](https://blog.keep.network/)
 - [tBTC Website](https://tbtc.network/)
 
 
